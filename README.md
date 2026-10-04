@@ -66,8 +66,7 @@ feedback on each one:
 
 ### Prompt 1
 
-Imagine you are teaching a brand new programmer a short lesson on how a value
-gets stored and then reused. Your lesson should have four parts:
+Imagine you are teaching a brand new programmer a short lesson on functions. Your lesson should have four parts:
 
 - A technical definition of a **function**, quoted and credited to a source you
   name. The
@@ -91,9 +90,9 @@ That last part has to use all six of these terms correctly:
 
 Defining them is the assignment, so we are not defining them here. Together
 they trace the path a value takes, and an explanation that skips one usually
-skips a step.
+skips a step so ensure that you use all 6 terms before submitting.
 
-Below is an outline for your response. Change it if you would rather structure
+Below is a suggested outline for your response. Change it if you would rather structure
 it differently.
 
     [Your explanation of the concept with an analogy]
