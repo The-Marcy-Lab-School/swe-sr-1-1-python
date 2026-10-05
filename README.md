@@ -66,7 +66,7 @@ feedback on each one:
 
 ### Prompt 1
 
-Imagine you are teaching a brand new programmer a short lesson on functions. Your lesson should have four parts:
+Imagine you are teaching a brand new programmer a short lesson on variables and functions. Your lesson should have four parts:
 
 - A technical definition of a **function**, quoted and credited to a source you
   name. The
